@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote name="nypl"
+            fetch="git://github.com/NYPL/" />
+            
+   <remote name="drupal"
+            fetch="git://git.drupal.org" />
+            
+   <default revision=""
+            remote="drupal"
+            sync-j="4" />
+
+<project path= "sites/all/modules/admin_menu"
+name=admin_menu
+/>
+<project path= "sites/all/modules/apachesolr"
+name=apachesolr
+/>
+<project path= "sites/all/modules/autocomplete_widgets"
+name=autocomplete_widgets
+/>
+<project path= "sites/all/modules/computed_field"
+name=computed_field
+/>
+<project path= "sites/all/modules/content_taxonomy"
+name=content_taxonomy
+/>
+<project path= "sites/all/modules/email"
+name=email
+/>
+<project path= "sites/all/modules/fieldgroup"
+name=fieldgroup
+/>
+<project path= "sites/all/modules/filefield"
+name=filefield
+/>
+<project path= "sites/all/modules/imagefield"
+name=imagefield
+/>
+<project path= "sites/all/modules/imagefield_tokens"
+name=imagefield_tokens
+/>
+<project path= "sites/all/modules/link"
+name=link
+/>
+<project path= "sites/all/modules/phone"
+name=phone
+/>
+<project path= "sites/all/modules/ctools"
+name=ctools
+/>
+<project path= "sites/all/modules/context"
+name=context
+/>
+<project path= "sites/all/modules/blog"
+name=blog
+/>
+<project path= "sites/all/modules/translation"
+name=translation
+/>
+<project path= "sites/all/modules/locale"
+name=locale
+/>
+<project path= "sites/all/modules/path"
+name=path
+/>
+<project path= "sites/all/modules/profile"
+name=profile
+/>
+<project path= "sites/all/modules/taxonomy"
+name=taxonomy
+/>
+<project path= "sites/all/modules/trigger"
+name=trigger
+/>
+<project path= "sites/all/modules/upload"
+name=upload
+/>
+<project path= "sites/all/modules/date"
+name=date
+/>
+<project path= "sites/all/modules/features"
+name=features
+/>
+<project path= "sites/all/modules/filefield_paths"
+name=filefield_paths
+/>
+<project path= "sites/all/modules/image"
+name=image
+/>
+<project path= "sites/all/modules/img_assist"
+name=img_assist
+/>
+<project path= "sites/all/modules/imageapi"
+name=imageapi
+/>
+<project path= "sites/all/modules/imagecache"
+name=imagecache
+/>
+<project path= "sites/all/modules/gmap"
+name=gmap
+/>
+<project path= "sites/all/modules/nodewords"
+name=nodewords
+/>
+<project path= "sites/all/modules/hours"
+name=hours
+/>
+<project path= "sites/all/modules/comment_notify"
+name=comment_notify
+/>
+<project path= "sites/all/modules/customerror"
+name=customerror
+/>
+<project path= "sites/all/modules/diff"
+name=diff
+/>
+<project path= "sites/all/modules/fckeditor"
+name=fckeditor
+/>
+<project path= "sites/all/modules/globalredirect"
+name=globalredirect
+/>
+<project path= "sites/all/modules/google_website_optimizer"
+name=google_website_optimizer
+/>
+<project path= "sites/all/modules/job_queue"
+name=job_queue
+/>
+<project path= "sites/all/modules/mollom"
+name=mollom
+/>
+<project path= "sites/all/modules/page_title"
+name=page_title
+/>
+<project path= "sites/all/modules/path_redirect"
+name=path_redirect
+/>
+<project path= "sites/all/modules/pathauto"
+name=pathauto
+/>
+<project path= "sites/all/modules/phpass"
+name=phpass
+/>
+<project path= "sites/all/modules/simplepie"
+name=simplepie
+/>
+<project path= "sites/all/modules/taxonomy_defaults"
+name=taxonomy_defaults
+/>
+<project path= "sites/all/modules/taxonomy_delegate"
+name=taxonomy_delegate
+/>
+<project path= "sites/all/modules/taxonomy_manager"
+name=taxonomy_manager
+/>
+<project path= "sites/all/modules/token"
+name=token
+/>
+<project path= "sites/all/modules/transliteration"
+name=transliteration
+/>
+<project path= "sites/all/modules/upload_element"
+name=upload_element
+/>
+<project path= "sites/all/modules/signup"
+name=signup
+/>
+<project path= "sites/all/modules/badbehavior"
+name=badbehavior
+/>
+<project path= "sites/all/modules/captcha"
+name=captcha
+/>
+<project path= "sites/all/modules/recaptcha"
+name=recaptcha
+/>
+<project path= "sites/all/modules/spamicide"
+name=spamicide
+/>
+<project path= "sites/all/modules/extlink"
+name=extlink
+/>
+<project path= "sites/all/modules/jquery_ui"
+name=jquery_ui
+/>
+<project path= "sites/all/modules/jquery_update"
+name=jquery_update
+/>
+<project path= "sites/all/modules/views"
+name=views
+/>
+<project path= "sites/all/modules/views_bulk_operations"
+name=views_bulk_operations
+/>
+<project path= "sites/all/modules/webform"
+name=webform
+/>
+<project path= "sites/all/modules/workflow"
+name=workflow
+/>
+<project path= "sites/all/modules/garland"
+name=garland
+/>
+<project path= "sites/all/modules/metatag"
+name=metatag
+/>
+<project path= "sites/all/modules/node_clone"
+name=node_clone
+/>
+<project path= "sites/all/modules/redirect"
+name=redirect
+/>
+<project path= "sites/all/modules/google_analytics"
+name=google_analytics
+/>
+<project path= "sites/all/themes/nypl_new"
+path = sites/all/themes/nypl_new
+/>
+<project path= "sites/all/themes/omega"
+path = sites/all/themes/omega
+/>
+<project path= "sites/all/modules/omega_tools"
+name=omega_tools
+/>
+<project path= "sites/all/modules/devel"
+name=devel
+/>
+<project path= "sites/all/modules/delta"
+name=delta
+/>
+<project path= "sites/all/modules/entity"
+name=entity
+/>
+<project path= "sites/all/modules/entityreference"
+name=entityreference
+/>
+<project path= "sites/all/modules/references"
+name=references
+/>
+<project path= "sites/all/modules/cck"
+name=cck
+/>
+<project path= "sites/all/modules/advanced_help"
+name=advanced_help
+/>
+<project path= "sites/all/modules/nypl_events"
+name=nypl_events
+/>
+<project path= "sites/all/modules/locations"
+name=locations
+/>
+<project path= "sites/all/modules/nypl_content"
+name=nypl_content
+/>
+<project path= "sites/all/modules/bundle_copy"
+name=bundle_copy
+/>
+
+<project path= "sites/all/modules/nypl_digitalgallery"
+name=nypl_digitalgallery
+remote=NYPL revision=development
+/>
+<project path= "sites/all/modules/ckeditor"
+name=ckeditor
+/>
+<project path= "sites/all/drush"
+path = sites/all/drush
+remote=NYPL revision=development
+/>
+<project path= "sites/all/modules/wysiwyg"
+name=wysiwyg
+/>
+<project path= "sites/all/modules/nypl_grouper"
+name=nypl_grouper
+remote=NYPL revision=development
+/>
+<project path= "sites/all/modules/nypl_apachesolr"
+name=nypl_apachesolr
+remote=NYPL revision=development
+/>
+</manifest>

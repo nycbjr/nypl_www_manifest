@@ -1,0 +1,5 @@
+BAKED rom android 4.2
+
+$ repo init -u https://github.com/nycbjr/nypl_www_manifest.git -b master
+$ repo sync
+
