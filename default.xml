@@ -10,7 +10,6 @@
             remote="drupal"
             sync-j="4" />
 
-</project>
 <project path= "sites/all/modules/admin_menu" name="admin_menu"/>
 <project path= "sites/all/modules/apachesolr"
 name="apachesolr"/>
