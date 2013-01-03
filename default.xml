@@ -55,4 +55,52 @@ name="project/path"
 <project path= "sites/all/modules/profile"
 name="project/profile"
 />
+<project path= "sites/all/modules/taxonomy"
+name="project/taxonomy"
+/>
+<project path= "sites/all/modules/trigger"
+name="project/trigger"
+/>
+<project path= "sites/all/modules/upload"
+name="project/upload"
+/>
+<project path= "sites/all/modules/date"
+name="project/date"
+/>
+<project path= "sites/all/modules/features"
+name="project/features"
+/>
+<project path= "sites/all/modules/filefield_paths"
+name="project/filefield_paths"
+/>
+<project path= "sites/all/modules/image"
+name="project/image"
+/>
+<project path= "sites/all/modules/img_assist"
+name="project/img_assist"
+/>
+<project path= "sites/all/modules/imageapi"
+name="project/imageapi"
+/>
+<project path= "sites/all/modules/imagecache"
+name="project/imagecache"
+/>
+<project path= "sites/all/modules/gmap"
+name="project/gmap"
+/>
+<project path= "sites/all/modules/nodewords"
+name="project/nodewords"
+/>
+<project path= "sites/all/modules/hours"
+name="project/hours"
+/>
+<project path= "sites/all/modules/comment_notify"
+name="project/comment_notify"
+/>
+<project path= "sites/all/modules/customerror"
+name="project/customerror"
+/>
+<project path= "sites/all/modules/diff"
+name="project/diff"
+
 </manifest>
