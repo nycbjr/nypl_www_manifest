@@ -1,5 +1,6 @@
-nifest>
- <remote name="project/"projectnypl"
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 
+<remote name="project/"projectnypl"
             fetch="git://github.com/NYPL/" />
             
    <remote name="project/"projectdrupal"
