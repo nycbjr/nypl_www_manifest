@@ -10,23 +10,23 @@
             remote="drupal"
             sync-j="4" />
 
-<project path= "sites/all/modules/admin_menu" name="project/"projectproject/admin_menu" revision="master"/>
-<project path= "sites/all/modules/apachesolr" name="project/"projectproject/apachesolr" revision="master"/>
-<project path= "sites/all/modules/autocomplete_widgets" name="project/"projectproject/autocomplete_widgets" revision="master"/>
-<project path= "sites/all/modules/computed_field" name="project/"projectproject/computed_field" revision="master"/>
-<project path= "sites/all/modules/content_taxonomy" name="project/"projectproject/content_taxonomy" revision="master"/>
-<project path= "sites/all/modules/email" name="project/"projectproject/email" revision="master"/>
+<project path= "sites/all/modules/admin_menu" name="project/admin_menu" revision="master"/>
+<project path= "sites/all/modules/apachesolr" name="project/apachesolr" revision="master"/>
+<project path= "sites/all/modules/autocomplete_widgets" name="project/autocomplete_widgets" revision="master"/>
+<project path= "sites/all/modules/computed_field" name="project/computed_field" revision="master"/>
+<project path= "sites/all/modules/content_taxonomy" name="project/content_taxonomy" revision="master"/>
+<project path= "sites/all/modules/email" name="project/email" revision="master"/>
 <project path= "sites/all/modules/fieldgroup"
-name="project/"project/fieldgroup"
+name="project/fieldgroup"
 />
 <project path= "sites/all/modules/filefield"
-name="project/"project/filefield"
+name="project/filefield"
 />
 <project path= "sites/all/modules/imagefield"
-name="project/"projectimagefield"
+name="project/imagefield"
 />
 <project path= "sites/all/modules/imagefield_tokens"
-name="project/"projectimagefield_tokens"
+name="project/imagefield_tokens"
 />
 <project path= "sites/all/modules/link"
 name="project/link"
