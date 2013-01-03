@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest> 
-<remote name="project/"projectnypl"
+<remote name="nypl"
             fetch="git://github.com/NYPL/" />
             
-   <remote name="project/"projectdrupal"
+   <remote name="drupal"
             fetch="git://git.drupal.org" />
             
    <default revision="master"
