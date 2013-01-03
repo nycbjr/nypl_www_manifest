@@ -10,17 +10,12 @@
             remote="drupal"
             sync-j="4" />
 
-<project path= "sites/all/modules/admin_menu" name="admin_menu"/>
-<project path= "sites/all/modules/apachesolr"
-name="apachesolr"/>
-<project path= "sites/all/modules/autocomplete_widgets"
-name="autocomplete_widgets"/>
-<project path= "sites/all/modules/computed_field"
-name="computed_field"/>
-<project path= "sites/all/modules/content_taxonomy"
-name="content_taxonomy"/>
-<project path= "sites/all/modules/email"
-name="email" />
+<project path= "sites/all/modules/admin_menu" name="admin_menu" revision="master"/>
+<project path= "sites/all/modules/apachesolr" name="apachesolr" revision="master"/>
+<project path= "sites/all/modules/autocomplete_widgets" name="autocomplete_widgets" revision="master"/>
+<project path= "sites/all/modules/computed_field" name="computed_field" revision="master"/>
+<project path= "sites/all/modules/content_taxonomy" name="content_taxonomy" revision="master"/>
+<project path= "sites/all/modules/email" name="email" revision="master"/>
 </manifest>
 
  <!-- <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" 
