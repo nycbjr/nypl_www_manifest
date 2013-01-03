@@ -40,9 +40,9 @@ name="project/ctools"
 <project path= "sites/all/modules/context"
 name="project/context"
 />
-<project path= "sites/all/modules/blog"
+<!--<project path= "sites/all/modules/blog"
 name="project/blog"
-/>
+/>-->
 <project path= "sites/all/modules/translation"
 name="project/translation"
 />
