@@ -64,9 +64,9 @@ name="project/trigger"
 <project path= "sites/all/modules/upload"
 name="project/upload"
 />
-<project path= "sites/all/modules/date"
+<!--<project path= "sites/all/modules/date"
 name="project/date"
-/>
+/>-->
 <project path= "sites/all/modules/features"
 name="project/features"
 />
