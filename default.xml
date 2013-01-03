@@ -102,5 +102,5 @@ name="project/customerror"
 />
 <project path= "sites/all/modules/diff"
 name="project/diff"
-
+/>
 </manifest>
