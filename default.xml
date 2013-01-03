@@ -1,23 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
- <remote name="nypl"
+nifest>
+ <remote name="project/"projectnypl"
             fetch="git://github.com/NYPL/" />
             
-   <remote name="drupal"
+   <remote name="project/"projectdrupal"
             fetch="git://git.drupal.org" />
             
-   <default revision=""
+   <default revision="master"
             remote="drupal"
             sync-j="4" />
 
-<project path= "sites/all/modules/admin_menu" name="project/admin_menu" revision="master"/>
-<project path= "sites/all/modules/apachesolr" name="project/apachesolr" revision="master"/>
-<project path= "sites/all/modules/autocomplete_widgets" name="project/autocomplete_widgets" revision="master"/>
-<project path= "sites/all/modules/computed_field" name="project/computed_field" revision="master"/>
-<project path= "sites/all/modules/content_taxonomy" name="project/content_taxonomy" revision="master"/>
-<project path= "sites/all/modules/email" name="project/email" revision="master"/>
+<project path= "sites/all/modules/admin_menu" name="project/"projectproject/admin_menu" revision="master"/>
+<project path= "sites/all/modules/apachesolr" name="project/"projectproject/apachesolr" revision="master"/>
+<project path= "sites/all/modules/autocomplete_widgets" name="project/"projectproject/autocomplete_widgets" revision="master"/>
+<project path= "sites/all/modules/computed_field" name="project/"projectproject/computed_field" revision="master"/>
+<project path= "sites/all/modules/content_taxonomy" name="project/"projectproject/content_taxonomy" revision="master"/>
+<project path= "sites/all/modules/email" name="project/"projectproject/email" revision="master"/>
+<project path= "sites/all/modules/fieldgroup"
+name="project/"project/fieldgroup"
+/>
+<project path= "sites/all/modules/filefield"
+name="project/"project/filefield"
+/>
+<project path= "sites/all/modules/imagefield"
+name="project/"projectimagefield"
+/>
+<project path= "sites/all/modules/imagefield_tokens"
+name="project/"projectimagefield_tokens"
+/>
+<project path= "sites/all/modules/link"
+name="project/link"
+/>
+<project path= "sites/all/modules/phone"
+name="project/phone"
+/>
+<project path= "sites/all/modules/ctools"
+name="project/ctools"
+/>
+<project path= "sites/all/modules/context"
+name="project/context"
+/>
+<project path= "sites/all/modules/blog"
+name="project/blog"
+/>
+<project path= "sites/all/modules/translation"
+name="project/translation"
+/>
+<project path= "sites/all/modules/locale"
+name="project/locale"
+/>
+<project path= "sites/all/modules/path"
+name="project/path"
+/>
+<project path= "sites/all/modules/profile"
+name="project/profile"
+/>
 </manifest>
-
- <!-- <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" 
-/> -->
-
